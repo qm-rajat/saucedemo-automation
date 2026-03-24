@@ -89,7 +89,7 @@ pip --version
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/saucedemo-automation.git
+git clone https://github.com/qm-rajat/saucedemo-automation.git
 ```
 
 Navigate to the project directory:
@@ -249,8 +249,7 @@ Possible enhancements to the framework include:
 
 # Author
 
-QA Automation Framework Example
-Designed following industry-level QA automation practices.
+Rajat Kumar Dash
 
 ---
 
